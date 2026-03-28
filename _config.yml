@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wei-Cheng Chang"
+  name             : # "Wei-Cheng Chang"
   avatar           : # "profile.png"
-  bio              : "Researcher at Google DeepMind"
+  bio              : # "Researcher at Google DeepMind"
   location         : "Bellevue, Seattle"
   employer         :
   pubmed           :
