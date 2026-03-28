@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Wei-Cheng Chang"
 title_separator          : "-"
 name                     : &name "Wei-Cheng Chang"
-description              : &description "Applied scientist at Amazon Search"
+description              : &description "Research Scientist at Google DeepMind"
 url                      : https://octoberchang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Wei-Cheng Chang"
   avatar           : "profile.png"
-  bio              : "Applied Scientist at Amazon"
+  bio              : "Research Scientist at Google DeepMind"
   location         : "Bellevue, Seattle"
   employer         :
   pubmed           :
