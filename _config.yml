@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=nxBGx-0AAAAJ&hl=en"
-  email            : # weicheng.cmu@gmail.com
+  email            : weicheng.cmu@gmail.com
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "OctoberChang"
+  github           : "OctoberChang"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # "octoberchang"
+  linkedin         : "octoberchang"
   orcid            :
   pinterest        :
   soundcloud       :
